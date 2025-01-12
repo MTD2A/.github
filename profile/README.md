@@ -13,3 +13,7 @@ Digital Command Control: https://en.wikipedia.org/wiki/Digital_Command_Control
 NMRA Standards and Recommended Practices: https://www.nmra.org/index-nmra-standards-and-recommended-practices
 
 Massoth Train Control Systems: https://www.massoth.de/en/
+
+Arduino home: https://www.arduino.cc/
+
+Arduino libraries: https://docs.arduino.cc/libraries/
