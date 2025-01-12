@@ -47,4 +47,4 @@ This applies to a lesser extent when mounting the ultrasonic sensors under rails
 
 ### Refraction
 
-Is the most accurate, reliable and efficien
+Is the most accurate, reliable and efficient train detecton method.
