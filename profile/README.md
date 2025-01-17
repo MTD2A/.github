@@ -18,6 +18,8 @@ The library is under construction and Danish documentation and guides need to be
 
 [Arduino libraries](https://docs.arduino.cc/libraries/)
 
+[The Pows (Parco)](https://usuaris.tinet.cat/fmco/home_en.htm)
+
 <br/> 
 
 ## Sensor Comparison
