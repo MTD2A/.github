@@ -47,6 +47,6 @@ Most infrared sensors does not work in daylight. Light interference can be signi
 If dirt gets on the receiver or transmitter units, there is a risk that the circuit will not function correctly. This is particularly risky when mounted under rails. It is possible to use two sensors simultaneously to achieve greater reliability.
 This applies to a lesser extent when mounting the ultrasonic sensors under rails, as the ultrasound is powerful and penetrating, and the sensor diameter is significantly larger Ø16 mm. 
 
-### Refraction
+### Break beam
 
 Is the most accurate, reliable and efficient train detecton method.
