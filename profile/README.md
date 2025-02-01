@@ -2,7 +2,8 @@
 
 The content is aimed at people interested in train control, programming, electronics and mechanics for model railway systems.
 
-I would like to encourage everyone who develops Arduino solutions for model trains to publish their work here. 
+I would like to encourage everyone who develops Arduino solutions for model trains to publish their work here,
+and you can choose whether you want to write your contribution in your native language or English.
 
 Write to MTD2A@jorgen-madsen.dk to become affiliated and join teams.
 
