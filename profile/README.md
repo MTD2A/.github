@@ -11,7 +11,7 @@ Write to MTD2A@jorgen-madsen.dk to become affiliated and join team.
 
 ## MTD2A main repository
 [MTD2A/MTD2A](https://github.com/MTD2A/MTD2A) is part of the official Arduino library, and can be downloaded directly from 
-the **Arduino IDE** (Integrated Development Environment) via the [Library Manager]([/image/Arduino-IDE-MTD2A-library-examples.pn](https://github.com/MTD2A/MTD2A/blob/main/image/Arduino-IDE-MTD2A-library-examples.png)g). 12 use case examples have been prepared.
+the **Arduino IDE** (Integrated Development Environment) via the [Library Manager](https://github.com/MTD2A/MTD2A/blob/main/image/Arduino-IDE-MTD2A-library-examples.png)). 12 use case examples have been prepared.
 <br/>
 
 ### links to interesting websites about Arduino, trains and electronics
