@@ -1,15 +1,19 @@
 ![](/image/MTDAA-heading.png)
 
+# Welcome to $\color{Green}\large{\textsf{M}}\color{Orange}\large{\textsf{odel}}$ $\color{Green}\large{\textsf{T}}\color{Orange}\large{\textsf{rain}}$ $\color{Green}\large{\textsf{D}}\color{Orange}\large{\textsf{etection}}$ $\color{Green}\large{\textsf{A}}\color{Orange}\large{\textsf{nd}}$ $\color{Green}\large{\textsf{A}}\color{Orange}\large{\textsf{ction}}$ Arduino Library
+
 The content is aimed at people interested in train control, programming, electronics and mechanics for model railway systems.
 
 I would like to encourage everyone who develops Arduino solutions for model trains to publish their work here,
 and you can choose whether you want to write your contribution in your native language or English.
 
 Write to MTD2A@jorgen-madsen.dk to become affiliated and join team.
+<br/>
 
 ## MTD2A main repository
-[MTD2A/MTD2A](/MTD2A/MTD2A) is now part of the official Arduino library, and can be downloaded directly from the Arduino IDE (Integrated Development Environment) via the Library Manager. 
-The library is under construction and Danish documentation and guides need to be translated into English.
+[MTD2A/MTD2A](https://github.com/MTD2A/MTD2A) is part of the official Arduino library, and can be downloaded directly from 
+the (Integrated Development Environment) via the [Library Manager](/image/Arduino-IDE-MTD2A-library-examples.png). 12 use case examples have been prepared.
+<br/>
 
 ### links to interesting websites about Arduino, trains and electronics
 [Interesting links](https://github.com/MTD2A/.github/blob/main/links.md)
