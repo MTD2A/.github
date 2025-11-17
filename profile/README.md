@@ -1,5 +1,5 @@
 
-# Welcome to $\color{Green}\large{\textsf{M}}\color{Orange}\large{\textsf{odel}}$ $\color{Green}\large{\textsf{T}}\color{Orange}\large{\textsf{rain}}$ $\color{Green}\large{\textsf{D}}\color{Orange}\large{\textsf{etection}}$ $\color{Green}\large{\textsf{A}}\color{Orange}\large{\textsf{nd}}$ $\color{Green}\large{\textsf{A}}\color{Orange}\large{\textsf{ction}}$ Arduino Library
+# Welcome to $\color{Green}\large{\textsf{M}}\color{Orange}\large{\textsf{odel}}\ \color{Green}\large{\textsf{T}}\color{Orange}\large{\textsf{rain}}\ \color{Green}\large{\textsf{D}}\color{Orange}\large{\textsf{etection}}\ \color{Green}\large{\textsf{A}}\color{Orange}\large{\textsf{nd}}\ \color{Green}\large{\textsf{A}}\color{Orange}\large{\textsf{ction}}$ Arduino Library
 
 The content is aimed at people interested in train control, programming, electronics and mechanics for model railway systems.
 
