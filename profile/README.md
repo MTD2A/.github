@@ -1,5 +1,5 @@
 
-# Welcome to $\color{Green}\large{\textsf{M}}\color{Orange}\large{\textsf{odel}}\ \color{Green}\large{\textsf{T}}\color{Orange}\large{\textsf{rain}}\ \color{Green}\large{\textsf{D}}\color{Orange}\large{\textsf{etection}}\ \color{Green}\large{\textsf{A}}\color{Orange}\large{\textsf{nd}}\ \color{Green}\large{\textsf{A}}\color{Orange}\large{\textsf{ction}}$ Arduino Library
+# Welcome to $\color{Green}\large{\textsf{M}}\color{Orange}\large{\textsf{odel}}\ \color{Green}\large{\textsf{T}}\color{Orange}\large{\textsf{rain}}\ \color{Green}\large{\textsf{D}}\color{Orange}\large{\textsf{etection}}\ \color{Green}\large{\textsf{A}}\color{Orange}\large{\textsf{nd}}\ \color{Green}\large{\textsf{A}}\color{Orange}\large{\textsf{ction}}$
 
 The content is aimed at people interested in train control, programming, electronics and mechanics for model railway systems.
 
@@ -10,8 +10,8 @@ Write to MTD2A@jorgen-madsen.dk to become affiliated and join team.
 <br/>
 
 ## MTD2A main repository
-[MTD2A/MTD2A](https://github.com/MTD2A/MTD2A) is part of the official Arduino library, and can be downloaded directly from 
-the **Arduino IDE** (Integrated Development Environment) via the [Library Manager](https://github.com/MTD2A/MTD2A/blob/main/image/Arduino-IDE-MTD2A-library-examples.png)). 12 use case [examples](https://github.com/MTD2A/MTD2A/tree/main/examples#readme) have been prepared.
+[MTD2A/MTD2A](https://github.com/MTD2A/MTD2A) is part of the official [Arduino library](https://docs.arduino.cc/libraries/), and can be downloaded directly from 
+the **Arduino IDE** (Integrated Development Environment) via the [Library Manager](https://github.com/MTD2A/MTD2A/blob/main/image/Arduino-IDE-MTD2A-library-examples.png). 12 use case [examples](https://github.com/MTD2A/MTD2A/tree/main/examples#readme) have been prepared.
 <br/>
 
 ### links to interesting websites about Arduino, trains and electronics
