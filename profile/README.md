@@ -1,4 +1,4 @@
-# Welcome to <ins>M</ins>odel <ins>T</ins>rain <ins>D</ins>etection <ins>A</ins>nd <ins>A</ins>ction - MTD2A
+![](/image/MTDAA-main-heading-blue.png)
 
 The content is aimed at people interested in train control, programming, electronics and mechanics for model railway systems.
 
