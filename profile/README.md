@@ -1,4 +1,4 @@
-![](/image/MTDAA-main-heading-blue.png)
+![](/image/MTD2A-main-heading-blue.png)
 
 The content is aimed at people interested in train control, programming, electronics and mechanics for model railway systems.
 
