@@ -38,5 +38,7 @@ jobs:
             - examples
           libraries: |
             - source-path: ./
+            - name: Servo
+            - name: Adafruit_PWMServoDriver
           enable-deltas-report: false
           verbose: false
